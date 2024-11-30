@@ -1,0 +1,6 @@
+Configure and connect git cli with your Github account 
+
+1. git config --global user.name "Your Name"
+2. git config --global user.email "youremail@example.com"
+
+
